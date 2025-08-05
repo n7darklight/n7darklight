@@ -37,6 +37,8 @@
   <img align="center" src="https://github-readme-stats-rho-pink-79.vercel.app/api?username=n7darklight&show_icons=true&theme=dracula&rank_icon=github" alt="n7darklight's Github Stats"/>
   <br/><br/>
   <img align="center" src="https://github-readme-stats-rho-pink-79.vercel.app/api/top-langs/?username=n7darklight&layout=compact&theme=dracula" alt="n7darklight's Top Languages"/>
+  <br/><br/>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=n7darklight&theme=dark" alt="GitHub Streak" /></a>
 </p>
 
 ---
