@@ -1,6 +1,6 @@
 <img src="https://github.com/n7darklight/n7darklight/blob/main/github-header-banner.png?raw=true" alt="GitHub Profile Banner">
 
-<h1 align="center">Hi there, I'm Nana Mulyana Maghfur 👋</h1>
+<h1 align="center">Hi there, I'm Nana 👋</h1>
 <h3 align="center">A Data Science enthusiast from Indonesia with a passion for Natural Language Processing.</h3>
 
 
